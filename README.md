@@ -19,8 +19,17 @@ Here, I explore algorithms and insights by working with two types of data:
 
 ---
 
-## 🚀 Active Projects
+## 🚀 Featured Projects
 
-### 🔹 Synthetic Data ML Prediction (Current Project)
-* **Description:** Implementation of a Machine Learning model using a custom synthetic dataset generated via code to simulate a controlled predictive environment.
-* **Key Focus:** Data simulation, feature relationship analysis, and baseline model training.
+### 🔹 End-to-End ML Pipeline with Synthetic Data
+A complete, self-contained Data Science pipeline developed in Google Colab, covering everything from data generation to automated executive reporting.
+
+* **Project Workflow:**
+  1. **Data Simulation:** Custom generation of a synthetic dataset via code to mimic real-world business constraints.
+  2. **Exploratory Data Analysis (EDA):** In-depth statistical analysis, distribution checks, and feature correlation mapping (Correlation Matrix).
+  3. **Data Cleaning:** Robust outlier detection and handling to ensure model quality.
+  4. **Predictive Modeling:** Training and optimization of a **Random Forest** classifier/regressor, including Hyperparameter Tuning.
+  5. **Automated Reporting:** Programmatic generation of an executive summary PDF containing key insights and model metrics directly from the pipeline.
+
+* **Tech Focus:** Scikit-Learn, Hyperparameter Optimization, Feature Interaction, PDF Automation.
+* **Location:** `01-machine-learning/`
